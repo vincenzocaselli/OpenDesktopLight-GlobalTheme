@@ -167,6 +167,15 @@ toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 [kdeglobals][Icons]
 Theme=OpenDesktop-DarkIcons
 
+[kdeglobals][KDE]
+ColorScheme=Breeze
+LookAndFeelPackage=OpenDesktop-Dark
+ShowIconsInMenuItems=true
+ShowIconsOnPushButtons=true
+SingleClick=false
+contrast=4
+widgetStyle=Breeze
+
 [kdeglobals][KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
