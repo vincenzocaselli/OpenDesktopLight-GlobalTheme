@@ -10,4 +10,4 @@ X-KDE-PluginInfo-Name=OpenDesktop-Dark
 X-KDE-PluginInfo-Version=1.0.17
 X-KDE-PluginInfo-Website=opendesktop-dark
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1298357,kns://icons.knsrc/api.kde-look.org/1498619,kns://aurorae.knsrc/api.kde-look.org/1504897,kns://colorschemes.knsrc/api.kde-look.org/1506129
+X-KPackage-Dependencies=kns://icons.knsrc/api.kde-look.org/1498619,kns://aurorae.knsrc/api.kde-look.org/1504897,kns://colorschemes.knsrc/api.kde-look.org/1506129

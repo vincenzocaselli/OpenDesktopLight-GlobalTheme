@@ -1,13 +1,6 @@
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
 
-[plasmarc][Theme]
-name=Qogir-dark
-
-[plasmarc][Theme-plasmathemeexplorer]
-name=Qogir-dark
-
-
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
@@ -173,15 +166,6 @@ toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 
 [kdeglobals][Icons]
 Theme=OpenDesktop-DarkIcons
-
-[kdeglobals][KDE]
-ColorScheme=Breeze
-LookAndFeelPackage=com.github.vinceliuice.Qogir-dark
-ShowIconsInMenuItems=true
-ShowIconsOnPushButtons=true
-SingleClick=false
-contrast=4
-widgetStyle=Breeze
 
 [kdeglobals][KFileDialog Settings]
 Allow Expansion=false
