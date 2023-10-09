@@ -1,1 +1,1 @@
-# OpenDesktopDark-GlobalTheme
+# OpenDesktopLight-GlobalTheme
