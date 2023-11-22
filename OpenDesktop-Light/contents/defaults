@@ -152,8 +152,8 @@ History Items[$e]=file://
 
 [kdeglobals][General]
 BrowserApplication=google-chrome.desktop
-ColorScheme=OpenDesktopDark
-Name=OpenDesktop Dark
+ColorScheme=OpenDesktopLight
+Name=OpenDesktop Light
 XftAntialias=true
 XftHintStyle=hintfull
 XftSubPixel=rgb
@@ -169,7 +169,7 @@ Theme=OpenDesktop-DarkIcons
 
 [kdeglobals][KDE]
 ColorScheme=Breeze
-LookAndFeelPackage=OpenDesktop-Dark
+LookAndFeelPackage=OpenDesktop-Light
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=false
